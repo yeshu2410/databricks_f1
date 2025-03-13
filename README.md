@@ -1,4 +1,5 @@
 # databricks_f1
+### this project will teach us end to end implimention of databricks 
 ### what i did in this project is upload thee data into data lake and then connecting it with the azure data bricks 
 ### how we connect s3 to databricks?
 ### ingesting data in the csv formate
